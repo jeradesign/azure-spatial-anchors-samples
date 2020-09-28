@@ -3,13 +3,13 @@
 #import "BaseViewController.h"
 
 // Set this string to the account ID provided for the Azure Spatial Anchors account resource.
-NSString *const SpatialAnchorsAccountId = @"Set me";
+NSString *const SpatialAnchorsAccountId = @"7a6832a5-823c-4955-8d96-f1bdd8cbdcd6";
 
 // Set this string to the account key provided for the Azure Spatial Anchors account resource.
-NSString *const SpatialAnchorsAccountKey = @"Set me";
+NSString *const SpatialAnchorsAccountKey = @"zGhr0MkM3hKgETPPyKJNdcTKWOtwBD+XB7FV/HuraFY=";
 
 // Set this string to the account domain provided for the Azure Spatial Anchors account resource.
-NSString *const SpatialAnchorsAccountDomain = @"Set me";
+NSString *const SpatialAnchorsAccountDomain = @"mixedreality.azure.com";
 
 @implementation AnchorVisual
 @end

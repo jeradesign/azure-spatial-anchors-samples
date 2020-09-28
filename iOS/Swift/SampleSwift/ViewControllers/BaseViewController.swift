@@ -19,13 +19,13 @@ let unsavedAnchorId = "placeholder-id"
 class BaseViewController: UIViewController, ARSCNViewDelegate, ASACloudSpatialAnchorSessionDelegate {
 
     // Set this string to the account ID provided for the Azure Spatial Anchors account resource.
-    let spatialAnchorsAccountId = "Set me"
+    let spatialAnchorsAccountId = "7a6832a5-823c-4955-8d96-f1bdd8cbdcd6"
 
     // Set this string to the account key provided for the Azure Spatial Anchors account resource.
-    let spatialAnchorsAccountKey = "Set me"
+    let spatialAnchorsAccountKey = "zGhr0MkM3hKgETPPyKJNdcTKWOtwBD+XB7FV/HuraFY="
 
     // Set this string to the account domain provided for the Azure Spatial Anchors account resource.
-    let spatialAnchorsAccountDomain = "Set me"
+    let spatialAnchorsAccountDomain = "mixedreality.azure.com"
 
     @IBOutlet var sceneView: ARSCNView!
 
